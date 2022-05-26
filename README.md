@@ -4,8 +4,6 @@
 
 ---
 
-</br>
-
 ### **TECHNICAL SKILLS**
 
 C# | JavaScript | ASP.NET | React | Material UI | BootStrap | jQuery | Git | SQL | RESTful API | MVC
