@@ -10,9 +10,9 @@ C# | JavaScript | ASP.NET | React | Material UI | BootStrap | jQuery | Git | SQL
 
 ### **EXPERIENCE**
 
-Rosehip - Software Engineer
+#### **Rosehip**
 
-JAN/2022 - APR/2022
+Software Engineer <br> JAN/2022 - APR/2022
 
 - Integrated Zoom Meeting Api using React, .Net and C#
 - Used the Zoom API to create and stream the meeting
@@ -23,9 +23,9 @@ JAN/2022 - APR/2022
 - Maintained workflow by using github and git as source control
 - Worked with data tables and stored procedures designed with SQL using SQL Server Management System
 
-Infosys Limited - Tech Associate
+#### **Infosys Limited**
 
-MAR/2021 - NOV/2021
+Tech Associate <br> MAR/2021 - NOV/2021
 
 - Worked on front-end UI for web and mobile apps using ionic framework
 - Worked with UI designers and applied their design to the application per customer’s request
