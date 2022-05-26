@@ -2,6 +2,8 @@
 
 ##### 424-341-2623 | joseph.kim.819@gmail.com | https://github.com/jkim0819 | https://www.linkedin.com/in/josephjkim12
 
+---
+
 </br>
 
 ### **TECHNICAL SKILLS**
@@ -11,6 +13,7 @@ C# | JavaScript | ASP.NET | React | Material UI | BootStrap | jQuery | Git | SQL
 ### **EXPERIENCE**
 
 Rosehip - Software Engineer
+
 JAN/2022 - APR/2022
 
 - Integrated Zoom Meeting Api using React, .Net and C#
@@ -23,6 +26,7 @@ JAN/2022 - APR/2022
 - Worked with data tables and stored procedures designed with SQL using SQL Server Management System
 
 Infosys Limited - Tech Associate
+
 MAR/2021 - NOV/2021
 
 - Worked on front-end UI for web and mobile apps using ionic framework
