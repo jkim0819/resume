@@ -1,6 +1,6 @@
 # Joseph Kim &emsp;&emsp;&emsp;&emsp; Full Stack Developer
 
-##### 424-341-2623 | joseph.kim.819@gmail.com | https://github.com/jkim0819 | https://www.linkedin.com/in/josephjkim12
+##### 818-378-9788 | joseph.kim.819@gmail.com | https://github.com/jkim0819 | https://www.linkedin.com/in/josephjkim12
 
 ---
 
@@ -9,6 +9,13 @@
 C# | JavaScript | ASP.NET | React | Material UI | BootStrap | jQuery | Git | SQL | RESTful API | MVC
 
 ### **EXPERIENCE**
+
+#### **Raytheon**
+
+Software Engineer <br> AUG/2022 - Present
+
+- Involved in Software development of Software Test Equipment for antenna systems
+- Wrote Software Documents (SRS, SDD, VDD) for test equpments before going into production
 
 #### **Rosehip**
 
